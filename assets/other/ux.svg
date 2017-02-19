@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="104px" height="70px" viewBox="0 0 104 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>shape-ux</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="96.8371333%" y1="46.8371333%" x2="3.16286671%" y2="46.8371333%" id="linearGradient-1">
+            <stop stop-color="#409CF9" offset="0%"></stop>
+            <stop stop-color="#37F6E1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="fa_site_profile" sketch:type="MSArtboardGroup" transform="translate(-682.000000, -1385.000000)" stroke="url(#linearGradient-1)" stroke-width="1.91780822">
+            <g id="Our-Focus" sketch:type="MSLayerGroup" transform="translate(460.000000, 1048.000000)">
+                <g id="UX-Design" transform="translate(0.000000, 339.000000)" sketch:type="MSShapeGroup">
+                    <path d="M257.281935,66.6165068 L224,33.3080137 L257.281935,0 L290.56387,33.3084932 L257.281935,66.6165068 L257.281935,66.6165068 Z M290.56387,66.6165068 L257.281935,33.3080137 L290.563391,0 L323.844847,33.3084932 L290.56387,66.6165068 L290.56387,66.6165068 Z M224,33.3080137 L323.844847,33.3080137 L224,33.3080137 Z" id="shape-ux"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
